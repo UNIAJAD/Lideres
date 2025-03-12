@@ -1,9 +1,0 @@
-This is a placeholder file. The following images are needed for the website:
-
-1. logo.png - The logo for the header
-2. bg-pattern.png - Background pattern for intro and group photo sections
-3. couple1.jpg - Photo of the first leader couple
-4. couple2.jpg - Photo of the second leader couple
-5. group.jpg - Group photo with all members
-
-Please replace this file with the actual images.
